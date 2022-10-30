@@ -1,0 +1,17 @@
+.carousel{
+  height: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 1200px;
+
+}
+.carousel-item{
+  height: 25rem;
+  background-color: blanchedalmond;
+}
+.carousel-indicators{
+  top: 375px;
+}
+.tex{
+ margin-left: 30px;
+}
